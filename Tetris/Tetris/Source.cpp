@@ -13,7 +13,7 @@
 #include <map>
 #include <ctime>
 
-#define PI 3.14159265   
+const double PI = 3.14159265;  
 
 
 using namespace std;
